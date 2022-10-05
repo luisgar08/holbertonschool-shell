@@ -1,2 +1,2 @@
 #!/bin/bash
-cat > "\*\\'\"Best School\"\'\\\*\$\?\*\*\*\*\*\:\)".txt Best School
+cat > "\\\*\\\\\'\"Best School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)".txt Best School
