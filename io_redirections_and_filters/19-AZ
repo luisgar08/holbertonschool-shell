@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$string" | tr A c | tr Z e
+tr "[A]" "[c]" 
