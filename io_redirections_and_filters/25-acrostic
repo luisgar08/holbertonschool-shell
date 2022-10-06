@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 | sed -i '$ s/$/ and Linux/'  
+cut -c 1 | tr -d '\r'  
