@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name "*.gif" ./ | wc -l -type f
+rev | cut -d "." -f2,3 | rev
