@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 | cat -E  
+cut -c 1 | cat -E | tr -d "$" 
