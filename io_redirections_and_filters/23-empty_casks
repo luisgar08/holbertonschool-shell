@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d ./ -empty | sort -u
+find ./ -empty -print f
