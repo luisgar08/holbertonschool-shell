@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name ".git" | wc -l -type f
+find -name ".gif" | wc -l -type f
