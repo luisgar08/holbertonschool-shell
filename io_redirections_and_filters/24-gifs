@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name ".git" | rev | cut -d "." -f2,3 | rev
+find -name "*.git" | rev | cut -d "." -f2,3 | rev
