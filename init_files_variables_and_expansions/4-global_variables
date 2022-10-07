@@ -1,3 +1,2 @@
 #!/bin/bash
 pintenv | echo "HBTN="$(wc -l)
-
