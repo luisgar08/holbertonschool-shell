@@ -1,2 +1,2 @@
 #!/bin/bash
-alias print="echo '$USER'"
+alias i="whoami"
