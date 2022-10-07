@@ -1,2 +1,0 @@
-#!/bin/bash
-find -name "*.git" -printf "%s\n" | rev | cut -d "." -f2

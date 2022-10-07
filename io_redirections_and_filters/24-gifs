@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name "*.git" -printf "%s\n" | rev | cut -d "." -f2,3 | rev
+tail -n +2 | cut -f1 | sort | uniq -c | sort -nr | head -n 11 | tr -s " " |cut -d " " -f3 
